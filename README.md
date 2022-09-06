@@ -3,6 +3,9 @@
 ![giphy](https://user-images.githubusercontent.com/88447983/188561408-177a0f8f-9855-4bc4-bcb3-9587b7467ac1.gif)
 </div>
 
+🍦  I am currently interested in Digital Humanities / Tableau / NLP / Theory of Evolution / African history
+🍦  I write [**Today I Learned**](https://github.com/happyhillll/TIL) everyday so check out! 
+
 ## Table of contents
 - **Awards & Projects**
   - [Data Youth Campus : 자연어처리 기반 딥러닝기술 융합과정](https://github.com/happyhillll/Data-Youth-Campus-)
