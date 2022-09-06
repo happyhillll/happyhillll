@@ -3,8 +3,8 @@
 ![giphy](https://user-images.githubusercontent.com/88447983/188561408-177a0f8f-9855-4bc4-bcb3-9587b7467ac1.gif)
 </div>
 
-# Welcome to Minji's github!
-🍦  I am currently interested in Digital Humanities / Tableau / NLP / Theory of Evolution / African history. 
+# Hi! This is Minji!🤠
+🍦  I am currently interested in Digital Humanities / Tableau / NLP / Theory of Evolution / African history.   
 🍦  I write [**Today I Learned**](https://github.com/happyhillll/TIL) everyday so check out! 
 
 ## Table of contents
