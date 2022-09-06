@@ -9,6 +9,9 @@
   - [한국외대 2021 인공지능 아이디어 페스티벌 장려상](https://github.com/happyhillll/Data-Youth-Campus-)
   - [Medical Report Generation](https://github.com/happyhillll/Medical-Report-Generation)
   - [Jeju dialect translator](https://github.com/happyhillll/Jeju-dialect-translator)
+  - [Visualizing Africa Covid19 cases](https://public.tableau.com/app/profile/.67826953/viz/_16589704174170/sheet0)
+  - [아는형님 시청률 추이 대시보드](https://public.tableau.com/app/profile/.67826953/viz/_16594472938490/1)
+  - [Gelato map in Rome🍦](https://public.tableau.com/app/profile/.67826953/viz/30BestGelatoShopsinRome/finaldashboard)
  
 - **Skills**
   - Machine Learning/Deep Learning
