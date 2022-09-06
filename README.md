@@ -5,7 +5,7 @@
 
 ## Table of contents
 - **Awards & Projects**
-  - [Data Youth Campus : 자연어처리 기반 딥러닝기술 융합과정](###data-youth-campus-:-자연어처리-기반-딥러닝기술-융합과정)
+  - [Data Youth Campus : 자연어처리 기반 딥러닝기술 융합과정](####data-youth-campus-:-자연어처리-기반-딥러닝기술-융합과정)
   - [한국외대 2021 인공지능 아이디어 페스티벌 장려상](###한국외대-2021-인공지능-아이디어-페스티벌-장려상)
   - [Medical Report Generation](###medical-report-generation)
   - [Jeju dialect translator](###jeju-dialect-translator)
@@ -15,24 +15,24 @@
   - [Data Analytics : Numpy, Pandas](###Data-Analytics)
   - [NLP](###NLP)
   - [Language : Python , R Studio , SAS ondemand](###Language)
-  - Visualization : Tableau
+  - [Visualization : Tableau](####visualization)
 
 
 ### Projects
 #### [Data Youth Campus : 자연어처리 기반 딥러닝기술 융합과정](https://github.com/happyhillll/Data-Youth-Campus-)
-- project name : 텍스트 생성 모델으르 통한 가상 인물 여행기 생성 및 오디오북 서비스
-<img width="361" alt="image" src="https://user-images.githubusercontent.com/88447983/188566661-da6ca137-16f2-4eaf-a5ee-f7cf54dff8bb.png">
+텍스트 생성 모델으르 통한 가상 인물 여행기 생성 및 오디오북 서비스
+<img width="361" alt="image" src="https://user-images.githubusercontent.com/88447983/188566661-da6ca137-16f2-4eaf-a5ee-f7cf54dff8bb.png" width="30%" height="30%">
 
 #### 한국외대 2021 인공지능 아이디어 페스티벌 장려상
-<img width="452" alt="image" src="https://user-images.githubusercontent.com/88447983/188563956-26fac702-5297-4145-93c7-29fa37018e84.png">
+<img width="452" alt="image" src="https://user-images.githubusercontent.com/88447983/188563956-26fac702-5297-4145-93c7-29fa37018e84.png" width="30%" height="30%">
 
 #### [Medical Report Generation](https://github.com/happyhillll/Medical-Report-Generation)
-<img width="1026" alt="image" src="https://user-images.githubusercontent.com/88447983/188569661-079a686e-8f81-4783-a217-c94654fb311e.png">
-<img width="1028" alt="image" src="https://user-images.githubusercontent.com/88447983/188569706-932f207b-6046-4c99-a8f1-c2e50a161522.png">
+<img width="1026" alt="image" src="https://user-images.githubusercontent.com/88447983/188569661-079a686e-8f81-4783-a217-c94654fb311e.png" width="30%" height="30%">
+<img width="1028" alt="image" src="https://user-images.githubusercontent.com/88447983/188569706-932f207b-6046-4c99-a8f1-c2e50a161522.png" width="30%" height="30%">
 
 #### [Jeju dialect translator](https://github.com/happyhillll/Jeju-dialect-translator)
-<img width="1027" alt="image" src="https://user-images.githubusercontent.com/88447983/188569415-84f7bbb4-db55-4313-af7c-8d463c84d32c.png">
-<img width="1029" alt="image" src="https://user-images.githubusercontent.com/88447983/188569784-01eefb8e-df00-4a51-8fbe-ff336ef136c8.png">
+<img width="1027" alt="image" src="https://user-images.githubusercontent.com/88447983/188569415-84f7bbb4-db55-4313-af7c-8d463c84d32c.png" width="30%" height="30%">
+<img width="1029" alt="image" src="https://user-images.githubusercontent.com/88447983/188569784-01eefb8e-df00-4a51-8fbe-ff336ef136c8.png" width="30%" height="30%">
 
 ### Skills
 #### Machine Learning/Deep Learning
