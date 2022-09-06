@@ -5,10 +5,10 @@
 
 ## Table of contents
 - **Awards & Projects**
-  - [Data Youth Campus : 자연어처리 기반 딥러닝기술 융합과정](###Data-Youth-Campus-:-자연어처리-기반-딥러닝기술-융합과정)
+  - [Data Youth Campus : 자연어처리 기반 딥러닝기술 융합과정](###data-youth-campus-:-자연어처리-기반-딥러닝기술-융합과정)
   - [한국외대 2021 인공지능 아이디어 페스티벌 장려상](###한국외대-2021-인공지능-아이디어-페스티벌-장려상)
-  - [Medical Report Generation](###Medical-Report-Generation)
-  - [Jeju dialect translator](###Jeju-dialect-translator)
+  - [Medical Report Generation](###medical-report-generation)
+  - [Jeju dialect translator](###jeju-dialect-translator)
  
 - **Skills**
   - [Machine Learning/Deep Learning](###Machine-Learning/Deep-Learning)
