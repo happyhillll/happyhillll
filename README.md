@@ -4,7 +4,7 @@
 </div>
 
 # Hi! This is Minji!🤠
-🍦  I am currently interested in Digital Humanities / Tableau / NLP / Theory of Evolution / African history.   
+🍦  I am currently interested in NLP / Theory of Evolution / African history.   
 🍦  I write [**Today I Learned**](https://github.com/happyhillll/TIL) everyday so check out! 
 
 ## Table of contents
