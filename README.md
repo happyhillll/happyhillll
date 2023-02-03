@@ -4,7 +4,8 @@
 </div>
 
 # Hi! This is Minji!🤠
-🍦  I am currently interested in Digital Humanities/ NLP / Theory of Evolution / African history.   
+🍦  I am currently interested in Digital Humanities/ NLP / East African history and language / Cognitive science.
+🍦  I like reading books! writing! archiving! filming KPOP cover dance! listening to music! 
 🍦  I write [**Today I Learned**](https://github.com/happyhillll/TIL) everyday so check out! 
 
 ## Table of contents
