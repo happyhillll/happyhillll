@@ -3,12 +3,11 @@
 ![giphy](https://user-images.githubusercontent.com/88447983/188561408-177a0f8f-9855-4bc4-bcb3-9587b7467ac1.gif)
 </div>
 
-<div align="center">
 # Hi! This is Minji!🤠
 🍦  I am currently interested in Digital Humanities/ NLP / East African history and language / Cognitive science.
 🍦  I like reading books! writing! archiving! filming KPOP cover dance! listening to music! 
 🍦  I write [**Today I Learned**](https://github.com/happyhillll/TIL) everyday so check out! 
-</div>
+
 
 ## Table of contents
 - **Awards & Projects**
