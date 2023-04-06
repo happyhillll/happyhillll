@@ -4,10 +4,10 @@
 </div>
 
 # Hi! This is Minji!🤠
-🍦  I am currently working in NCSoft as an AI data builder assistant.  
+🍦  I am currently working in NCSoft as an AI data assistant.  
 🍦  Interested in Digital Humanities/ NLP / East African history and language / Data Ethics and AI ethics / Human.  
-🍦  I like reading books! writing! archiving! filming KPOP cover dance! listening to music! Yoga!  
-🍦  I write [**Today I Learned**](https://github.com/happyhillll/TIL) everyday so check out!   
+🍦  I like reading books! writing! archiving! filming KPOP cover dance! listening to music! Yoga! etc .. etc ..
+🍦  I write [**Today I Learned**](https://github.com/happyhillll/TIL) everyday > cancel 
 
 
 ## Table of contents
