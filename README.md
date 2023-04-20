@@ -39,8 +39,6 @@
         -  [한국외대 통계소프트웨어수업 R 실습](https://github.com/happyhillll/R-studio)
       - SAS
           - [한국외대 통계소프트웨어수업 SAS 실습](https://github.com/happyhillll/SAS-ondemand) 
-      - Java script
-           - [조코딩 강의](https://github.com/happyhillll/FRONTEND/tree/main/Javascript)
       - Visualization
           - Tableau
             - [Visualizing Covid19 cases](https://public.tableau.com/app/profile/.67826953/viz/_16589704174170/sheet0)
