@@ -49,7 +49,7 @@
 
 #### 한국외대 2021 인공지능 아이디어 페스티벌 장려상
 ![image](https://user-images.githubusercontent.com/88447983/188891043-d2596b31-be17-461a-858a-94b1f2c58065.png)
-<img width="452" alt="image" src="https://user-images.githubusercontent.com/88447983/188563956-26fac702-5297-4145-93c7-29fa37018e84.png" width="20%" height="20%">
+<img width="452" alt="image" src="https://user-images.githubusercontent.com/88447983/188563956-26fac702-5297-4145-93c7-29fa37018e84.png" width="2%" height="2%">
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=happyhillll&show_icons=true&theme=dracula)
