@@ -24,6 +24,7 @@
   - Machine Learning/Deep Learning
     - [한빛미디어 혼자 공부하는 머신러닝 딥러닝](https://github.com/happyhillll/Hongong-ml-dl)
     - [한빛아카데미 파이썬으로 만드는 인공지능](https://github.com/happyhillll/AI-with-python)
+    - Pytorch
   -  Data Analytics
       - [한빛미디어 파이썬 라이브러리를 활동한 데이터 분석](https://github.com/happyhillll/Python-for-Data-Analysis)
   -  NLP
