@@ -4,9 +4,9 @@
 </div>
 
 # Hi! This is Minji!🤠
-🍦  I am currently working in Kakaocorp as an AI ethics research assistant.  
-🍦  Interested in Digital Humanities/ NLP / East African history and language / Data Ethics and AI ethics / Human.  
-🍦  I like reading books! writing! archiving! filming KPOP cover dance! listening to music! Yoga! etc .. etc ..  
+🍦  Master's candidate at Seoul National University, Cognitive Science
+🍦  Interested in Human. and AI.  
+🍦  I like reading books! writing something! playing a guitar! YOGA! etc .. etc ..  
 🍦  I am studying NLP with [**Pytorch**](https://github.com/happyhillll/NLP-studies/tree/main/Torch) everyday. Check out!
 
 
