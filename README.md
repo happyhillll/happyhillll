@@ -6,7 +6,7 @@
 # Hi! This is Minji!🤠
 🍦  Master's candidate at Seoul National University, Cognitive Science
 🍦  Interested in Human. and AI.  
-🍦  I like reading books! writing something! playing a guitar! YOGA! etc .. etc ..  
+🍦  I like reading books! listening to music! writing something! playing a guitar! dancing! YOGA! etc .. etc ..  
 🍦  I am studying NLP with [**Pytorch**](https://github.com/happyhillll/NLP-studies/tree/main/Torch) everyday. Check out!
 
 
