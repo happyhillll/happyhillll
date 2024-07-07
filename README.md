@@ -4,6 +4,6 @@
 </div>
 
 # Hi! This is Minji!
-🧷  Master's candidate at Seoul National University, Cognitive Science
+🧷  Master's candidate at Seoul National University, Cognitive Science  
 🧷  Interested in Human. and AI.  
-🧷  I like reading books! listening to music! writing anything! YOGA! etc .. etc ..  
+🧷  I sometimes write, read, dance, take a picture, do yoga, play the guitar, listen to music, travel, edit vlog etc
